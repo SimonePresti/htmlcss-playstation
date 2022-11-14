@@ -14,12 +14,27 @@ body {
 .jumbotron-box {
     width: 100%;
     background-image: url(../img/jumbo-bg.png);
-    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-box-2 {
+    width: 100%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .p-jumbo {
-    padding: 15rem;
+    padding-top: 20rem;
+    padding-bottom: 5rem;
+}
+
+.p-jumbo-2 {
+    padding-top: 20rem;
+    padding-bottom: 3rem;
 }
 
 
@@ -41,6 +56,12 @@ body {
 
 .ps-box {
     width: 100%;
+}
+
+
+.ps-box-2 {
+    width: 100%;
+    background-color: #bebcbb;
 }
 
 
