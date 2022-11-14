@@ -13,10 +13,6 @@ body {
     width: 100%;
 }
 
-.header-right-box {
-    width: 55rem;
-}
-
 .jumbotron-box {
     width: 100%;
     background-image: url(../img/jumbo-bg.png);
@@ -54,7 +50,9 @@ body {
 
 
 
-
+.header-right-box {
+    margin-left: 38rem;
+}
 
 .img-size {
     height: 120px;
@@ -87,4 +85,19 @@ body {
 
 .tm {
     width: 0.2rem;
+}
+
+
+.globe-img {
+    width: 1rem;
+}
+
+
+.sony-img {
+    width: 8rem;
+}
+
+
+.footer-bg {
+    background-color: #00439c;
 }
