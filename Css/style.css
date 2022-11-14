@@ -25,7 +25,18 @@ body {
 
 .img-size {
     height: 120px;
-    width: 100%;
     margin: 5rem 0;
 }
 
+.right-img {
+    width: 35rem;
+}
+
+.ps-box {
+    width: 100%;
+}
+
+
+.social-img {
+    width: 5rem;
+}
