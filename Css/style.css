@@ -3,12 +3,18 @@ body {
 }
 
 
+.sony-logo {
+    width: 6rem;
+    height: 2rem;
+}
+
+
 .first-header-box {
     width: 100%;
 }
 
 .header-right-box {
-    width: 780px;
+    width: 55rem;
 }
 
 .jumbotron-box {
@@ -39,7 +45,7 @@ body {
 
 
 .text-jumbotron {
-    width: 400px;
+    width: 450px;
 }
 
 
@@ -62,6 +68,11 @@ body {
 .ps-box-2 {
     width: 100%;
     background-color: #bebcbb;
+}
+
+.ps-box-3 {
+    width: 100%;
+    background-color: #161c3b;
 }
 
 
