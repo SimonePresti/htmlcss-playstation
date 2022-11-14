@@ -13,10 +13,13 @@ body {
 
 .jumbotron-box {
     width: 100%;
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    background-position: center;
+    background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.p-jumbo {
+    padding: 15rem;
 }
 
 
