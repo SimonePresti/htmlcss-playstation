@@ -1,127 +1,125 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
 
 
-.sony-logo {
-    width: 6rem;
-    height: 2rem;
-}
+    .sony-logo {
+        width: 6rem;
+        height: 2rem;
+    }
 
-.first-header-box {
-    width: 100%;
-}
+    .first-header-box {
+        width: 100%;
+    }
 
-.jumbotron-box {
-    width: 100%;
-    background-image: url(../img/jumbo-bg.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-top: 4.5rem;
-}
+    .jumbotron-box {
+        width: 100%;
+        background-image: url(../img/jumbo-bg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 4.5rem;
+    }
 
-.jumbotron-box-2 {
-    width: 100%;
-    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+    .jumbotron-box-2 {
+        width: 100%;
+        background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
-.p-jumbo {
-    padding-top: 22rem;
-    padding-bottom: 5rem;
-}
+    .p-jumbo {
+        padding-top: 22rem;
+        padding-bottom: 5rem;
+    }
 
-.p-jumbo-2 {
-    padding-top: 20rem;
-    padding-bottom: 3rem;
-}
-
-
-.text-jumbotron {
-    width: 450px;
-}
-
-.text-jumbotron-2 {
-    width: 300px;
-}
+    .p-jumbo-2 {
+        padding-top: 20rem;
+        padding-bottom: 3rem;
+    }
 
 
+    .text-jumbotron {
+        width: 450px;
+    }
 
-.lens {
-    width: 2rem;
-    margin-left: 1.5rem;
-}
-
-.img-size {
-    height: 120px;
-    margin: 5rem 0;
-}
-
-.img-size-2 {
-    height: 120px;
-    width: 150px;
-    margin: 5rem 0;
-    opacity: 55%;
-}
-
-.img-size:hover {
-    border: 3px solid  yellow;
-    border-spacing: 10px;
-    border-radius: 1rem;
-}
-
-.img-size-2:hover {
-    opacity: 100%;
-    border-bottom: #00439c;
-}
+    .text-jumbotron-2 {
+        width: 300px;
+    }
 
 
 
+    .lens {
+        width: 2rem;
+        margin-left: 1.5rem;
+    }
 
-.img-border {
-    border-radius: 1rem;
-}
+    .img-size {
+        height: 120px;
+        margin: 5rem 0;
+    }
 
-.right-img {
-    width: 35rem;
-}
+    .img-size-2 {
+        height: 110px;
+        width: 110px;
+        margin: 5rem 0;
+        opacity: 50%;
+    }
 
-.ps-box {
-    width: 100%;
-}
+    .img-size:hover {
+        border: 3px solid  yellow;
+        border-spacing: 10px;
+        border-radius: 1rem;
+    }
 
-
-.ps-box-2 {
-    width: 100%;
-    background-color: #bebcbb;
-}
-
-.ps-box-3 {
-    width: 100%;
-    background-color: #161c3b;
-}
-
-
-.tm {
-    width: 0.2rem;
-}
-
-
-.globe-img {
-    width: 1rem;
-}
+    .img-size-2:hover {
+        opacity: 100%;
+        border-bottom: #00439c;
+    }
 
 
-.sony-img {
-    width: 8rem;
-}
+    .img-border {
+        border-radius: 1rem;
+    }
+
+    .right-img {
+        width: 35rem;
+    }
+
+    .ps-box {
+        width: 100%;
+    }
+
+
+    .ps-box-2 {
+        width: 100%;
+        background-color: #bebcbb;
+    }
+
+    .ps-box-3 {
+        width: 100%;
+        background-color: #161c3b;
+    }
+
+
+    .tm {
+        width: 0.2rem;
+    }
+
+
+    .globe-img {
+        width: 1rem;
+    }
+
+
+    .sony-img {
+        width: 8rem;
+    }
 
 
 
 
-.footer-bg {
-    background-color: #00439c;
-}
+    .footer-bg {
+        background-color: #00439c;
+    }
