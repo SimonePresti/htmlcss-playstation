@@ -75,6 +75,7 @@ body {
 
 .img-size-2:hover {
     opacity: 100%;
+    border-bottom: #00439c;
 }
 
 
@@ -103,10 +104,6 @@ body {
     background-color: #161c3b;
 }
 
-
-.social-img {
-    width: 5rem;
-}
 
 .tm {
     width: 0.2rem;
