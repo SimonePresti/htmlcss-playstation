@@ -60,6 +60,26 @@ body {
     margin: 5rem 0;
 }
 
+.img-size-2 {
+    height: 120px;
+    width: 150px;
+    margin: 5rem 0;
+    opacity: 55%;
+}
+
+.img-size:hover {
+    border: 3px solid  yellow;
+    border-spacing: 10px;
+    border-radius: 1rem;
+}
+
+.img-size-2:hover {
+    opacity: 100%;
+}
+
+
+
+
 .img-border {
     border-radius: 1rem;
 }
