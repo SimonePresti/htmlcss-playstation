@@ -50,13 +50,18 @@ body {
 
 
 
-.header-right-box {
-    margin-left: 38rem;
+.lens {
+    width: 2rem;
+    margin-left: 1.5rem;
 }
 
 .img-size {
     height: 120px;
     margin: 5rem 0;
+}
+
+.img-border {
+    border-radius: 1rem;
 }
 
 .right-img {
