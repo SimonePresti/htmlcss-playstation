@@ -8,7 +8,6 @@ body {
     height: 2rem;
 }
 
-
 .first-header-box {
     width: 100%;
 }
@@ -19,6 +18,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top: 4.5rem;
 }
 
 .jumbotron-box-2 {
@@ -30,7 +30,7 @@ body {
 }
 
 .p-jumbo {
-    padding-top: 20rem;
+    padding-top: 22rem;
     padding-bottom: 5rem;
 }
 
@@ -101,6 +101,8 @@ body {
 .sony-img {
     width: 8rem;
 }
+
+
 
 
 .footer-bg {
