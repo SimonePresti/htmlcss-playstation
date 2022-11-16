@@ -71,17 +71,34 @@
         opacity: 50%;
     }
 
+    .img-size-3 {
+        height: 120px;
+        margin: 5rem 0;
+    }
+
     .img-size:hover {
-        border: 3px solid  yellow;
-        border-spacing: 10px;
         border-radius: 1rem;
+        transition: all 0.1s;
+        box-shadow: 0 10px 5px #dedede;
+        transform: translateY(-10px);
+    }
+
+    .img-size:active {
+        border: 3px solid #0070d1;
+        padding: 1px;
     }
 
     .img-size-2:hover {
         opacity: 100%;
-        border-bottom: #00439c;
+        transform: scale(1.1);
+        transition: all 0.2s;
     }
 
+    .img-size-3:hover {
+        border: 3px solid yellowgreen;
+        border-radius: 1rem;
+        transform: scale(1.1);
+    }
 
     .img-border {
         border-radius: 1rem;
@@ -126,4 +143,7 @@
         background-color: #00439c;
     }
 
-    
+
+    a:hover {
+        color: #0070d1;
+    }
