@@ -144,6 +144,10 @@
     }
 
 
-    a:hover {
-        color: #0070d1;
+    .navbar-nav > li > a:hover {
+        color: #0070d1 !important;
+    }
+
+    .navbar form a:hover {
+        color: #0070d1 !important;
     }
